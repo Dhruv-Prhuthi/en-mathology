@@ -56,10 +56,7 @@ Faculty
 <li> CSS </li>
 <li> C</li>
 <li> Microsft excel </li>
-</ul>
-<h2> Experience :</h2>
-    <li>1 Months Internship in Data Entry</li>
-    <li>2 Month Internship in Content writing</li>    
+</ul>    
     <h2>Certifications :</h2>
         <ul>
             <li> Python for everybody(Coursera)</li>
